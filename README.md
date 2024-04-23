@@ -15,13 +15,13 @@ I've only **used** <a href="https://threejs.org/" style="background: linear-grad
 **Information about atomic models**
 
 - <a href="https://tr.wikipedia.org/wiki/John_Dalton" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; font-weight: bold;">Jhon Dalton</a>
-	-  Atomları ayrılmaz ve katı parçacıklar olarak tanımladı, her elementin kendine özgü atomları olduğunu savundu. (1803)
+	-  He described atoms as inseparable and solid particles, arguing that each element has its own unique atoms. (1803)
 - <a href="https://tr.wikipedia.org/wiki/J._J._Thomson" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; font-weight: bold;">Joseph John Thomson</a>
-	- Elektronların varlığını keşfetti ve atomun pozitif yüklü bir küre içinde serbestçe hareket eden negatif yüklü elektronlardan oluştuğunu öne sürdü. (1897)
+	- He discovered the existence of electrons and proposed that the atom is composed of negatively charged electrons moving freely in a positively charged sphere. (1897)
 - <a href="https://en.wikipedia.org/wiki/Ernest_Rutherford" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; font-weight: bold;">Ernest Rutherford</a>
-	- Altın folyo deneyiyle atomun büyük bir kısmının boşluk olduğunu ve yoğun bir çekirdeğin etrafında dönen elektronların bulunduğunu öne sürdü. (1911)
+	- With the gold foil experiment, he proposed that most of the atom is empty space, with electrons orbiting around a dense nucleus (1911)
 - <a href="https://tr.wikipedia.org/wiki/Niels_Bohr" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; font-weight: bold;">Niels Bohr</a>
-	- Atomun çekirdeğinde pozitif yüklü protonlar ve nötronlar bulunduğunu ve etrafında belirli yörüngelerde dönen elektronların olduğunu, bu yörüngelerdeki elektronların enerji seviyelerinin belirli olduğunu ve belirli enerji seviyelerinden diğerlerine geçerken ışık yaydığını öne sürdü. (1913)
+	- He proposed that there are positively charged protons and neutrons in the nucleus of the atom and that there are electrons orbiting around it in specific orbits, that the energy levels of the electrons in these orbits are specific, and that they emit light as they pass from certain energy levels to others. (1913)
 
 ---
 
